@@ -9,3 +9,4 @@ if you want to play this on your machine all you gotta do is to edit the python 
 CMD = python /your/path/to/script
 
 alternative is just loading the script in VSCODE or any other IDE and running it.
+![spece](https://github.com/user-attachments/assets/9bf4da49-7981-48ce-91ce-700630942a63)
